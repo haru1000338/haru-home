@@ -126,7 +126,7 @@ export const personalInfo: PersonalInfo = {
     },
     {
         platform: "Zenn",
-        url: "https://zenn.dev/yourusername", // あなたのZennのURLに変更してください
+        url: "https://zenn.dev/s_haru", // あなたのZennのURLに変更してください
         icon: <SiZenn className="size-6" />
     }
   ]
